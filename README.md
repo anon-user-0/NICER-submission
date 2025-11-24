@@ -1,1 +1,1 @@
-# NICER-submission
+Demo code for submission.

@@ -1,0 +1,9 @@
+{
+    "in_dim": 2049,
+    "n_classes": 4,
+    "p": 100,
+    "nhead": 1,
+    "dim_feedforward": 768
+  
+  }
+  
